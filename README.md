@@ -8,11 +8,7 @@ Welcome to the Time Series Forecasting training repository. This comprehensive c
 2. [Foundations of Product Sense and Business Acumen](02_Foundations.md)
 3. [Forecasting Fundamentals](03_Forecasting_Fundamentals.md)
 4. [Forecasting Methods](04_Forecasting_Methods.md)
-5. [Implementing Forecasting in Python](05_Python_Implementation.md)
-6. [Forecasting in Business Context](06_Business_Context.md)
-7. [Case Studies](07_Case_Studies.md)
-8. [Developing a Forecasting System in Your Organization](08_Forecasting_System.md)
-9. [Conclusion](09_Conclusion.md)
+
 
 ## Course Motivation
 
